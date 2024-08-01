@@ -8,3 +8,7 @@ def external():
 
 def third():
     print('Does something important')
+
+
+def secondare_controller():
+    print('Does secondary stuff')
