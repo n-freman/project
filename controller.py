@@ -4,3 +4,7 @@ def main_logic():
 
 def external():
     print('External logic')
+
+
+def secondare_controller():
+    print('Does secondary stuff')
