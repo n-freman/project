@@ -1,0 +1,3 @@
+def ahmet():
+    print('Hello')
+
